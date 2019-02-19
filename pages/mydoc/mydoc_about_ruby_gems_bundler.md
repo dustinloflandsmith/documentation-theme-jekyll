@@ -246,7 +246,7 @@ To learn more about Bundler, see [Bundler's Purpose and Rationale](http://bundle
 
 Editing this page in order to **get** a feel for the editing process. Thank heaven there's a raw editor mode, this would have driven me nuts otherwise.
 
-[test link](support.mambu.com) 
+[test link](https://support.mambu.com) 
 
 | | |  
 |---|---|  
