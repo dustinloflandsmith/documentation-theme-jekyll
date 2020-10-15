@@ -1,5 +1,11 @@
 $('#mysidebar').height($(".nav").height());
 
+$(function() {
+setTimeout(function(){
+let iframe = $('#document360-widget-iframe');
+let button = iframe.contents().find('#doc360-button');
+button.trigger("click");}, 2000);
+});
 
 $( document ).ready(function() {
 
